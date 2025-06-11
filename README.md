@@ -67,7 +67,7 @@ The data utilized in the dashboards comprise several fields, each serving a spec
 * Used conditional formatting for red flags (e.g., High DTI & Low Income).
 * Enabled snapshot analysis for non-technical users.
 
-###Data Validation Strategy
+### Data Validation Strategy
 
 *SQL Query Verification*: Manually reviewed output for each KPI.
 *Python Double Check*: Plotted summary statistics and ensured alignment.
