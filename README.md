@@ -9,11 +9,11 @@ The data is sourced from internal banking systems and exported as .csv. It conta
 ## Tools & Technologies
 
                                                           
- **SQL (MySQL / SQL Server)**                Data cleaning, transformation, and KPI calculation                    
- **Power BI**                                Executive and operational dashboards with real-time interactivity     
- **Python (Pandas, Seaborn, Matplotlib)**    EDA, correlation analysis, outlier detection                          
- **Excel**                                   Quick checks, pivot tables, and light dashboards for offline users    
-|**Tableau**                                 Visually compelling dashboards with rich interactivity and storylines 
+ **SQL (MySQL / SQL Server)** :              Data cleaning, transformation, and KPI calculation                    
+ **Power BI** :                               Executive and operational dashboards with real-time interactivity     
+ **Python (Pandas, Seaborn, Matplotlib)**:    EDA, correlation analysis, outlier detection                          
+ **Excel** :                                  Quick checks, pivot tables, and light dashboards for offline users    
+ **Tableau**:                                 Visually compelling dashboards with rich interactivity and storylines 
 
 ### Data Fields and Usage
 The data utilized in the dashboards comprise several fields, each serving a specific purpose in loan management and risk assessment:
