@@ -8,7 +8,7 @@ The data is sourced from internal banking systems and exported as .csv. It conta
 
 ## Tools & Technologies
 
-         Tool                                                         Purpose                                                               
+                                                          
  **SQL (MySQL / SQL Server)**                Data cleaning, transformation, and KPI calculation                    
  **Power BI**                                Executive and operational dashboards with real-time interactivity     
  **Python (Pandas, Seaborn, Matplotlib)**    EDA, correlation analysis, outlier detection                          
