@@ -69,11 +69,11 @@ The data utilized in the dashboards comprise several fields, each serving a spec
 
 ### Data Validation Strategy
 
-**SQL Query Verification**: Manually reviewed output for each KPI.
-**Python Double Check**: Plotted summary statistics and ensured alignment.
-**Power BI DAX Testing**: Used CALCULATE() and FILTER() to mimic SQL logic.
-**Tableau Data Interpreter**: Validated with SQL output via custom calculated fields.
-**Excel Cross-checking**: Compared pivot values to SQL exports.
+- **SQL Query Verification**: Manually reviewed output for each KPI.
+- **Python Double Check**: Plotted summary statistics and ensured alignment.
+- **Power BI DAX Testing**: Used CALCULATE() and FILTER() to mimic SQL logic.
+- **Tableau Data Interpreter**: Validated with SQL output via custom calculated fields.
+- **Excel Cross-checking**: Compared pivot values to SQL exports.
 
 ### Conclusion
 This project exemplifies the power of combining tools for data excellence. It:
