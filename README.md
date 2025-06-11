@@ -83,4 +83,5 @@ This project exemplifies the power of combining tools for data excellence. It:
 * Analyzes deeply with Python.
 * Simplifies access with Excel.
 
-The result is a complete 360° view of bank loan operations, borrower risk profiles, and growth metrics — enabling smarter, faster, and more confident decisions across departments.
+The result is a complete 360° view of bank loan operations, borrower risk profiles, and growth metrics
+enabling smarter, faster, and more confident decisions across departments.
