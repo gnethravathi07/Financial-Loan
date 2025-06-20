@@ -45,21 +45,20 @@ The data utilized in the dashboards comprise several fields, each serving a spec
 * KPI Summary
 * Risk Segments (DTI buckets, Grades)
 * Temporal Aggregations
-* Used CASE, JOIN, GROUP BY, and window functions.
-
+* Used CASE, JOIN, GROUP BY.
 #### 3. Python EDA
 * Connected data Source
 * Explored distributions, anomalies, and generated insight visuals.
 
 #### 4. Power BI Modeling
 * Imported Data From CSV File.
-* Defined measures using DAX (e.g., MoM Growth, Risk Ratio).
-* Built dashboards with slicers and bookmarks.
+* Defined measures using DAX (e.g., MoM Growth, Risk Ratios).
+* Built dashboards.
 
 #### 6. Excel Dashboarding
 * Pivoted metrics with slicers.
-* Used conditional formatting for red flags (e.g., High DTI & Low Income).
-* Enabled snapshot analysis for non-technical users.
+* Used conditional formatting 
+
 
 ### Data Validation Strategy
 
