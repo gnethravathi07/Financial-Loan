@@ -1,7 +1,7 @@
 # Strategic Loan Insights & Risk Monitoring
 
 ## Overview
-The Bank Loan Analytics Project is a full-stack data analysis solution built using SQL, Power BI, Python, Excel, and Tableau. The project focuses on understanding bank loan performance, identifying high-risk areas, and delivering strategic business insights.This report aims to provide stakeholders with actionable insights into loan applications, approvals, and related metrics.
+The Bank Loan Analytics Project is a full-stack data analysis solution built using SQL, Power BI, Python, Excel. The project focuses on understanding bank loan performance, identifying high-risk areas, and delivering strategic business insights.This report aims to provide stakeholders with actionable insights into loan applications, approvals, and related metrics.
 
 ## Data Source
 The data is sourced from internal banking systems and exported as .csv. It contains detailed records on loan applications, borrower demographics, financial ratios, and repayment behavior.
@@ -13,7 +13,6 @@ The data is sourced from internal banking systems and exported as .csv. It conta
  **Power BI** :                               Executive and operational dashboards with real-time interactivity     
  **Python (Pandas, Seaborn, Matplotlib)**:    EDA, correlation analysis, outlier detection                          
  **Excel** :                                  Quick checks, pivot tables, and light dashboards for offline users    
- **Tableau**:                                 Visually compelling dashboards with rich interactivity and storylines 
 
 ### Data Fields and Usage
 The data utilized in the dashboards comprise several fields, each serving a specific purpose in loan management and risk assessment:
@@ -57,11 +56,6 @@ The data utilized in the dashboards comprise several fields, each serving a spec
 * Defined measures using DAX (e.g., MoM Growth, Risk Ratio).
 * Built dashboards with slicers and bookmarks.
 
-#### 5. Tableau Storytelling
-* Connected to SQL and .csv files.
-* Used Calculated Fields, Level of Detail (LOD), and interactive filters.
-* Created drill-downs for Grade → State → Loan Purpose → Borrower Risk.
-
 #### 6. Excel Dashboarding
 * Pivoted metrics with slicers.
 * Used conditional formatting for red flags (e.g., High DTI & Low Income).
@@ -72,14 +66,13 @@ The data utilized in the dashboards comprise several fields, each serving a spec
 - **SQL Query Verification**: Manually reviewed output for each KPI.
 - **Python Double Check**: Plotted summary statistics and ensured alignment.
 - **Power BI DAX Testing**: Used CALCULATE() and FILTER() to mimic SQL logic.
-- **Tableau Data Interpreter**: Validated with SQL output via custom calculated fields.
 - **Excel Cross-checking**: Compared pivot values to SQL exports.
 
 ### Conclusion
 This project exemplifies the power of combining tools for data excellence. It:
 
 * Automates insights using SQL.
-* Visualizes strategically using Power BI and Tableau.
+* Visualizes strategically using Power BI 
 * Analyzes deeply with Python.
 * Simplifies access with Excel.
 
